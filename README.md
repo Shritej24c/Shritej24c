@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello World 👋
 
-I wish to teach Machines for a living! Currently, pursuing my second master's in Data Science. 
+I teach Machines for a living! Currently, pursuing my second master's in Data Science. 
 
 Graduated from IIT Madras in Biological Engineering where I worked on some cool AI projects in the field of Biotechnnology and Healthcare!
 
