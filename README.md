@@ -39,6 +39,12 @@ Graduated from IIT Madras in Biological Engineering where I worked on some cool 
 
 ### :hammer_and_wrench: Languages and Tools :
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;  
@@ -49,5 +55,3 @@ Graduated from IIT Madras in Biological Engineering where I worked on some cool 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="pytorch" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
