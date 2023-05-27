@@ -10,11 +10,9 @@ Graduated from IIT Madras in Biological Engineering where I worked on some cool 
 - ⚡ Check out my Masters thesis: [here](https://github.com/Shritej24c/Masters_Thesis)
 - 📫 How to reach me:
 
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
-
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shritej-chavan24/">
@@ -42,7 +40,6 @@ Graduated from IIT Madras in Biological Engineering where I worked on some cool 
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch"  alt="pytorch" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
 
 ---
 
