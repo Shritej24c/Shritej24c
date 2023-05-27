@@ -28,6 +28,15 @@ Graduated from IIT Madras in Biological Engineering where I worked on some cool 
 
 ---
 
+### :fire: My Stats :
+
+[![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shritej24c&theme=highcontrast)](https://git.io/streak-stats)
+
+---
+
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -41,14 +50,4 @@ Graduated from IIT Madras in Biological Engineering where I worked on some cool 
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
-### :fire: My Stats :
-
-[![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shritej24c&theme=highcontrast)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shritej24c)](https://github.com/anuraghazra/github-readme-stats)
