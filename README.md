@@ -48,7 +48,7 @@ I studied Biological Engineering from IIT Madras where I worked on some cool AI 
 
 ### :fire: My Stats :
 
-[![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=shritej24c)](https://github.com/anuraghazra/github-readme-stats)
+[![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shritej24c&theme=highcontrast)](https://git.io/streak-stats)
