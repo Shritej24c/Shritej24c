@@ -21,7 +21,7 @@ Graduated from IIT Madras in Biological Engineering where I worked on some cool 
   <a href="https://www.hackerrank.com/shritej24c?hr_r=1">
     <img src="https://img.shields.io/badge/HackerRank-black?style=for-the-badge&logo=hackerrank&logoColor=green" alt="HackerRank Badge"/>
   </a>
-   <a href="<shritej24c@gmail.com>">
+   <a href="<mailto:shritej24c@gmail.com>">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://twitter.com/shritej24c">
