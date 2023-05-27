@@ -2,7 +2,7 @@
 
 I wish to teach Machines for a living! Currently, pursuing my second master's in Data Science. 
 
-I studied Biological Engineering from IIT Madras where I worked on some cool AI projects in the field of Biotechnnology and Healthcare!
+Graduated from IIT Madras in Biological Engineering where I worked on some cool AI projects in the field of Biotechnnology and Healthcare!
 
 - 🔭 I’m currently working as Data Science Intern at T-mobile and Former DS at Target Corporation!
 - 🌱 I’m currently catching up on research in Reinforcement Learning and Natural Language Processing
