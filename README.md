@@ -14,8 +14,8 @@ I studied Biological Engineering from IIT Madras where I worked on some cool AI 
   <a href="https://www.linkedin.com/in/shritej-chavan24/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  <a href="https://www.hackerrank.com/shritej24c?hr_r=1">
+    <img src="https://img.shields.io/badge/HackerRank-blue?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
   </a>
   <a href="https://twitter.com/shritej24c">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
