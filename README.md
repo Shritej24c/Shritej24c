@@ -1,13 +1,13 @@
 ### Hello World 👋
 
-I teach Machines for a living! Currently, pursuing my second master's in Data Science. 
+My name is Shritej and I teach Machines for a living! Currently, pursuing my second master's in Data Science. 
 
-Graduated from IIT Madras in Biological Engineering where I worked on some cool AI projects in the field of Biotechnnology and Healthcare!
+I graduated from IIT Madras in Biological Engineering, where I worked on some cool AI projects in Biotechnology and Healthcare!
 
 - 🔭 Current DS Intern at T-mobile and Former Data Scientist at Target Corporation!
 - 🌱 I’m currently catching up on research in Reinforcement Learning and Natural Language Processing
 - 👯 I’m looking to collaborate on projects in the above fields
-- ⚡ Check out my Masters thesis: [here](https://github.com/Shritej24c/Masters_Thesis)
+- ⚡ Check out my Master's thesis: [here](https://github.com/Shritej24c/Masters_Thesis)
 - 📫 How to reach me:
 
 <div id="header" align="center">
