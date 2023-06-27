@@ -7,7 +7,7 @@ I graduated from IIT Madras in Biological Engineering, where I worked on some co
 - 🔭 Current DS Intern at T-mobile and Former Data Scientist at Target Corporation!
 - 🌱 I’m currently catching up on research in Reinforcement Learning and Natural Language Processing
 - 👯 I’m looking to collaborate on projects in the above fields
-- ⚡ Check out my Master's thesis: [here](https://github.com/Shritej24c/Masters_Thesis)
+- ⚡ Check out my Master's thesis in Computational Neuroscience: [here](https://github.com/Shritej24c/Masters_Thesis)
 - 📫 How to reach me:
 
 <div id="header" align="center">
