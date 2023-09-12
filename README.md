@@ -43,7 +43,7 @@ I graduated from IIT Madras with a degree in Biological Engineering, where I wor
 ### :hammer_and_wrench: Languages and Tools :
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
