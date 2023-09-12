@@ -1,10 +1,10 @@
 ### Hello World 👋
 
-My name is Shritej and I teach Machines for a living! Currently, pursuing my second master's in Data Science. 
+My name is Shritej and I teach Machines for a living! Currently, I am pursuing my second master's in Data Science. 
 
-I graduated from IIT Madras in Biological Engineering, where I worked on some cool AI projects in Biotechnology and Healthcare!
+I graduated from IIT Madras with a degree in Biological Engineering, where I worked on some cool AI projects in Biotechnology and Healthcare!
 
-- 🔭 Current DS Intern at T-mobile and Former Data Scientist at Target Corporation!
+- 🔭 Current DS Intern at T-Mobile and Former Data Scientist at Target Corporation!
 - 🌱 I’m currently catching up on research in Reinforcement Learning and Natural Language Processing
 - 👯 I’m looking to collaborate on projects in the above fields
 - ⚡ Check out my Master's thesis in Computational Neuroscience: [here](https://github.com/Shritej24c/Masters_Thesis)
@@ -33,7 +33,7 @@ I graduated from IIT Madras in Biological Engineering, where I worked on some co
 
 ### :fire: My Stats :
 
-[![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Shritej's GitHub stats](https://readme-stats.clckblog.space/api?username=Shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shritej24c&theme=highcontrast)](https://git.io/streak-stats)
