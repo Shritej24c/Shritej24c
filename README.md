@@ -36,7 +36,7 @@ I graduated from IIT Madras with a degree in Biological Engineering, where I wor
 [![Shritej's GitHub stats](https://readme-stats.clckblog.space/api?username=Shritej24c&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![GitHub Streak](https://readme-stats.clckblog.space/?user=Shritej24c&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-stats.zohan.tech/?user=Shritej24c&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
