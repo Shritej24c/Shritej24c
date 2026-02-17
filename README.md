@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-My name is Shritej and I teach Machines for a living! Currently, I am pursuing my second master's in Data Science. 
+My name is Shritej, and I teach Machines for a living! Currently, I am pursuing my second master's in Data Science. 
 
 I graduated from IIT Madras with a degree in Biological Engineering, where I worked on some cool AI projects in Biotechnology and Healthcare!
 
