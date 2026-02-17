@@ -33,10 +33,10 @@ I graduated from IIT Madras with a degree in Biological Engineering, where I wor
 
 ### :fire: My Stats :
 
-![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shritej24c&show_icons=true&theme=radical)
+![Shritej's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shritej24c&show_icons=true)
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=Shritej24c&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Shritej24c&theme=highcontrast)](https://git.io/streak-stats)
 
 ---
 
