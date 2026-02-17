@@ -4,7 +4,7 @@ My name is Shritej and I teach Machines for a living! Currently, I am pursuing m
 
 I graduated from IIT Madras with a degree in Biological Engineering, where I worked on some cool AI projects in Biotechnology and Healthcare!
 
-- 🔭 Current DS Intern at T-Mobile and Former Data Scientist at Target Corporation!
+- 🔭 Current DS at Albertsons and Former Data Scientist at Target Corporation & T-Mobile!
 - 🌱 I’m currently catching up on research in Reinforcement Learning and Natural Language Processing
 - 👯 I’m looking to collaborate on projects in the above fields
 - ⚡ Check out my Master's thesis in Computational Neuroscience: [here](https://github.com/Shritej24c/Masters_Thesis)
